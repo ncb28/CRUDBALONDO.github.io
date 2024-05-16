@@ -17,7 +17,7 @@
         echo '<script>alert("Deletion Failed.")</script>';
     }
 
-    echo "<script>window.location = 'home.php';</script>";
+    echo "<script>window.location = 'index.php';</script>";
     exit();
 
     mysqli_close($conn);
