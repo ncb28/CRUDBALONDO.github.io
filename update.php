@@ -76,7 +76,7 @@ mysqli_close($conn);
         <input type="text" name="yearsec" value="<?php echo $yearsec ?>"><br><br>
 
         <input type="submit" value="Update">
-        <a href="home.php"><input type="button" value="Back"></a>
+        <a href="index.php"><input type="button" value="Back"></a>
     </form>
 </body>
 </html>
