@@ -19,7 +19,7 @@
 
             <input type="submit" value="Add">
             <input type="reset" value="Clear">
-            <a href="home.php"><input type="button" value="Back"></a>
+            <a href="index.php"><input type="button" value="Back"></a>
 
         </form>
         <?php
